@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	
+	<head>
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+		<meta charset="utf-8">
+		<title>Main Page</title>
+		
+	</head>
+
+	<div id="name">
+			<h3 id="andy">
+				Andy Garcia
+			</h3>
+	</div>
+		
+	<nav>
+		
+		<ul id="nav_list">
+
+			<li>
+				<a href="index.html">
+					About
+				</a>
+			</li>
+				
+			<li>
+				<a href="portfolio.html">
+					Portfolio
+				</a>
+			</li>			
+					
+			<li>
+				<a href="contact.html">
+					Contact
+				</a>
+			</li>
+
+		</ul>
+	</nav>
+	
+	<body>
+		
+		<br>
+
+	<div id="all">
+		<div id="about">
+
+			<h4> 
+				About Me 
+			</h4>
+
+			<hr>
+			
+			<img src="http://ilarge.lisimg.com/image/7938851/1118full-andy-garcia.jpg" alt="Andy Garcia pic" id="my_pic">
+
+			
+			<p>
+				 Enjoys working on computer crafting websites.................I Will work on this later.
+		 	</p>
+
+
+
+	
+		</div>
+
+		<div id= "conect">
+			
+			<h3>
+				Connect with Me
+			</h3>
+			
+			<hr>
+			
+		</div>
+
+	</section>	
+		<br>
+
+
+		<div id="clear"> 
+		</div>
+		
+		<br>
+		
+		
+
+
+	</body>
+	</div>
+
+	<footer>
+			<h5>
+				@copyright2016AndyGarcia
+			</h5>
+		</footer>
+</html>
